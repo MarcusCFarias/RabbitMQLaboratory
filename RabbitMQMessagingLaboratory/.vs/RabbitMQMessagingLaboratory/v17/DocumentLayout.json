@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\Github\\RabbitMQLaboratory\\RabbitMQMessagingLaboratory\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0A86AD37-527C-482D-9D7F-E739C0A52644}|RabbitMQClient.Console\\RabbitMQClient.Console.csproj|c:\\projetos\\github\\rabbitmqlaboratory\\rabbitmqmessaginglaboratory\\rabbitmqclient.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A86AD37-527C-482D-9D7F-E739C0A52644}|RabbitMQClient.Console\\RabbitMQClient.Console.csproj|solutionrelative:rabbitmqclient.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 226,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\Github\\RabbitMQLaboratory\\RabbitMQMessagingLaboratory\\RabbitMQClient.Console\\Program.cs",
-              "RelativeDocumentMoniker": "RabbitMQClient.Console\\Program.cs",
-              "ToolTip": "C:\\Projetos\\Github\\RabbitMQLaboratory\\RabbitMQMessagingLaboratory\\RabbitMQClient.Console\\Program.cs",
-              "RelativeToolTip": "RabbitMQClient.Console\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T19:26:28.037Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
